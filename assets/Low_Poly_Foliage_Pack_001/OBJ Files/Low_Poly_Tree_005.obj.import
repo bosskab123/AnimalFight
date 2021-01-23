@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Low_Poly_Tree_005.obj-8cd40a7f785de842e0d7c6afb62d712d.mesh"
+
+[deps]
+
+files=[ "res://.import/Low_Poly_Tree_005.obj-8cd40a7f785de842e0d7c6afb62d712d.mesh" ]
+
+source_file="res://assets/Low_Poly_Foliage_Pack_001/OBJ Files/Low_Poly_Tree_005.obj"
+dest_files=[ "res://.import/Low_Poly_Tree_005.obj-8cd40a7f785de842e0d7c6afb62d712d.mesh", "res://.import/Low_Poly_Tree_005.obj-8cd40a7f785de842e0d7c6afb62d712d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

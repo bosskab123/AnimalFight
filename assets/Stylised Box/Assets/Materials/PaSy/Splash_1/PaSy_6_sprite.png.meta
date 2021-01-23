@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 494bf051fc117b742af82fc04cebe41e
+timeCreated: 1512603242
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PaSy_6_sprite_0
+    21300002: PaSy_6_sprite_1
+    21300004: PaSy_6_sprite_2
+    21300006: PaSy_6_sprite_3
+    21300008: PaSy_6_sprite_4
+    21300010: PaSy_6_sprite_5
+    21300012: PaSy_6_sprite_6
+    21300014: PaSy_6_sprite_7
+    21300016: PaSy_6_sprite_8
+    21300018: PaSy_6_sprite_9
+    21300020: PaSy_6_sprite_10
+    21300022: PaSy_6_sprite_11
+    21300024: PaSy_6_sprite_12
+    21300026: PaSy_6_sprite_13
+    21300028: PaSy_6_sprite_14
+    21300030: PaSy_6_sprite_15
+    21300032: PaSy_6_sprite_16
+    21300034: PaSy_6_sprite_17
+    21300036: PaSy_6_sprite_18
+    21300038: PaSy_6_sprite_19
+    21300040: PaSy_6_sprite_20
+    21300042: PaSy_6_sprite_21
+    21300044: PaSy_6_sprite_22
+    21300046: PaSy_6_sprite_23
+    21300048: PaSy_6_sprite_24
+    21300050: PaSy_6_sprite_25
+    21300052: PaSy_6_sprite_26
+    21300054: PaSy_6_sprite_27
+    21300056: PaSy_6_sprite_28
+    21300058: PaSy_6_sprite_29
+    21300060: PaSy_6_sprite_30
+    21300062: PaSy_6_sprite_31
+    21300064: PaSy_6_sprite_32
+    21300066: PaSy_6_sprite_33
+    21300068: PaSy_6_sprite_34
+    21300070: PaSy_6_sprite_35
+    21300072: PaSy_6_sprite_36
+    21300074: PaSy_6_sprite_37
+    21300076: PaSy_6_sprite_38
+    21300078: PaSy_6_sprite_39
+    21300080: PaSy_6_sprite_40
+    21300082: PaSy_6_sprite_41
+    21300084: PaSy_6_sprite_42
+    21300086: PaSy_6_sprite_43
+    21300088: PaSy_6_sprite_44
+    21300090: PaSy_6_sprite_45
+    21300092: PaSy_6_sprite_46
+    21300094: PaSy_6_sprite_47
+    21300096: PaSy_6_sprite_48
+    21300098: PaSy_6_sprite_49
+    21300100: PaSy_6_sprite_50
+    21300102: PaSy_6_sprite_51
+    21300104: PaSy_6_sprite_52
+    21300106: PaSy_6_sprite_53
+    21300108: PaSy_6_sprite_54
+    21300110: PaSy_6_sprite_55
+    21300112: PaSy_6_sprite_56
+    21300114: PaSy_6_sprite_57
+    21300116: PaSy_6_sprite_58
+    21300118: PaSy_6_sprite_59
+    21300120: PaSy_6_sprite_60
+    21300122: PaSy_6_sprite_61
+    21300124: PaSy_6_sprite_62
+    21300126: PaSy_6_sprite_63
+    21300128: PaSy_6_sprite_64
+    21300130: PaSy_6_sprite_65
+    21300132: PaSy_6_sprite_66
+    21300134: PaSy_6_sprite_67
+    21300136: PaSy_6_sprite_68
+    21300138: PaSy_6_sprite_69
+    21300140: PaSy_6_sprite_70
+    21300142: PaSy_6_sprite_71
+    21300144: PaSy_6_sprite_72
+    21300146: PaSy_6_sprite_73
+    21300148: PaSy_6_sprite_74
+    21300150: PaSy_6_sprite_75
+    21300152: PaSy_6_sprite_76
+    21300154: PaSy_6_sprite_77
+    21300156: PaSy_6_sprite_78
+    21300158: PaSy_6_sprite_79
+    21300160: PaSy_6_sprite_80
+    21300162: PaSy_6_sprite_81
+    21300164: PaSy_6_sprite_82
+    21300166: PaSy_6_sprite_83
+    21300168: PaSy_6_sprite_84
+    21300170: PaSy_6_sprite_85
+    21300172: PaSy_6_sprite_86
+    21300174: PaSy_6_sprite_87
+    21300176: PaSy_6_sprite_88
+    21300178: PaSy_6_sprite_89
+    21300180: PaSy_6_sprite_90
+    21300182: PaSy_6_sprite_91
+    21300184: PaSy_6_sprite_92
+    21300186: PaSy_6_sprite_93
+    21300188: PaSy_6_sprite_94
+    21300190: PaSy_6_sprite_95
+    21300192: PaSy_6_sprite_96
+    21300194: PaSy_6_sprite_97
+    21300196: PaSy_6_sprite_98
+    21300198: PaSy_6_sprite_99
+    21300200: PaSy_6_sprite_100
+    21300202: PaSy_6_sprite_101
+    21300204: PaSy_6_sprite_102
+    21300206: PaSy_6_sprite_103
+    21300208: PaSy_6_sprite_104
+    21300210: PaSy_6_sprite_105
+    21300212: PaSy_6_sprite_106
+    21300214: PaSy_6_sprite_107
+    21300216: PaSy_6_sprite_108
+    21300218: PaSy_6_sprite_109
+    21300220: PaSy_6_sprite_110
+    21300222: PaSy_6_sprite_111
+    21300224: PaSy_6_sprite_112
+    21300226: PaSy_6_sprite_113
+    21300228: PaSy_6_sprite_114
+    21300230: PaSy_6_sprite_115
+    21300232: PaSy_6_sprite_116
+    21300234: PaSy_6_sprite_117
+    21300236: PaSy_6_sprite_118
+    21300238: PaSy_6_sprite_119
+    21300240: PaSy_6_sprite_120
+    21300242: PaSy_6_sprite_121
+    21300244: PaSy_6_sprite_122
+    21300246: PaSy_6_sprite_123
+    21300248: PaSy_6_sprite_124
+    21300250: PaSy_6_sprite_125
+    21300252: PaSy_6_sprite_126
+    21300254: PaSy_6_sprite_127
+    21300256: PaSy_6_sprite_128
+    21300258: PaSy_6_sprite_129
+    21300260: PaSy_6_sprite_130
+    21300262: PaSy_6_sprite_131
+    21300264: PaSy_6_sprite_132
+    21300266: PaSy_6_sprite_133
+    21300268: PaSy_6_sprite_134
+    21300270: PaSy_6_sprite_135
+    21300272: PaSy_6_sprite_136
+    21300274: PaSy_6_sprite_137
+    21300276: PaSy_6_sprite_138
+    21300278: PaSy_6_sprite_139
+    21300280: PaSy_6_sprite_140
+    21300282: PaSy_6_sprite_141
+    21300284: PaSy_6_sprite_142
+    21300286: PaSy_6_sprite_143
+    21300288: PaSy_6_sprite_144
+    21300290: PaSy_6_sprite_145
+    21300292: PaSy_6_sprite_146
+    21300294: PaSy_6_sprite_147
+    21300296: PaSy_6_sprite_148
+    21300298: PaSy_6_sprite_149
+    21300300: PaSy_6_sprite_150
+    21300302: PaSy_6_sprite_151
+    21300304: PaSy_6_sprite_152
+    21300306: PaSy_6_sprite_153
+    21300308: PaSy_6_sprite_154
+    21300310: PaSy_6_sprite_155
+    21300312: PaSy_6_sprite_156
+    21300314: PaSy_6_sprite_157
+    21300316: PaSy_6_sprite_158
+    21300318: PaSy_6_sprite_159
+    21300320: PaSy_6_sprite_160
+    21300322: PaSy_6_sprite_161
+    21300324: PaSy_6_sprite_162
+    21300326: PaSy_6_sprite_163
+    21300328: PaSy_6_sprite_164
+    21300330: PaSy_6_sprite_165
+    21300332: PaSy_6_sprite_166
+    21300334: PaSy_6_sprite_167
+    21300336: PaSy_6_sprite_168
+    21300338: PaSy_6_sprite_169
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PaSy_6_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 893
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaSy_6_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 792
+        width: 893
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaSy_6_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 792
+        width: 893
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaSy_6_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 792
+        width: 893
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaSy_6_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 893
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaSy_6_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 396
+        width: 893
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaSy_6_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 396
+        width: 893
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaSy_6_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 396
+        width: 893
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaSy_6_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 893
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaSy_6_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 0
+        width: 893
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PaSy_6_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 0
+        width: 893
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

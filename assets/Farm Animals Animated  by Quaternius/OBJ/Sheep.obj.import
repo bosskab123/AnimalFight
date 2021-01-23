@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Sheep.obj-1a351b78cf3050a16277d149278a40d7.mesh"
+
+[deps]
+
+files=[ "res://.import/Sheep.obj-1a351b78cf3050a16277d149278a40d7.mesh" ]
+
+source_file="res://assets/Farm Animals Animated  by Quaternius/OBJ/Sheep.obj"
+dest_files=[ "res://.import/Sheep.obj-1a351b78cf3050a16277d149278a40d7.mesh", "res://.import/Sheep.obj-1a351b78cf3050a16277d149278a40d7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

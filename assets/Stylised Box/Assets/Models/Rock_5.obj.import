@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Rock_5.obj-4d82766bd42ea9e74b801d1c1b205aa2.mesh"
+
+[deps]
+
+files=[ "res://.import/Rock_5.obj-4d82766bd42ea9e74b801d1c1b205aa2.mesh" ]
+
+source_file="res://assets/Stylised Box/Assets/Models/Rock_5.obj"
+dest_files=[ "res://.import/Rock_5.obj-4d82766bd42ea9e74b801d1c1b205aa2.mesh", "res://.import/Rock_5.obj-4d82766bd42ea9e74b801d1c1b205aa2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

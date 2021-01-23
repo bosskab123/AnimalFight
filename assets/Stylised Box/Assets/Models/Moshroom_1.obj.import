@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Moshroom_1.obj-43d7992acb83435e2f6d793bf5e6a77c.mesh"
+
+[deps]
+
+files=[ "res://.import/Moshroom_1.obj-43d7992acb83435e2f6d793bf5e6a77c.mesh" ]
+
+source_file="res://assets/Stylised Box/Assets/Models/Moshroom_1.obj"
+dest_files=[ "res://.import/Moshroom_1.obj-43d7992acb83435e2f6d793bf5e6a77c.mesh", "res://.import/Moshroom_1.obj-43d7992acb83435e2f6d793bf5e6a77c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

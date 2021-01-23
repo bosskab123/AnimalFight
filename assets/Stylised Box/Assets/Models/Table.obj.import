@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Table.obj-e5a66bc2c04d69660d75e72cb9b83ebf.mesh"
+
+[deps]
+
+files=[ "res://.import/Table.obj-e5a66bc2c04d69660d75e72cb9b83ebf.mesh" ]
+
+source_file="res://assets/Stylised Box/Assets/Models/Table.obj"
+dest_files=[ "res://.import/Table.obj-e5a66bc2c04d69660d75e72cb9b83ebf.mesh", "res://.import/Table.obj-e5a66bc2c04d69660d75e72cb9b83ebf.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

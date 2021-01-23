@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Low_Poly_Bush_002.obj-df3054358da13dc5297ac5fd8a423020.mesh"
+
+[deps]
+
+files=[ "res://.import/Low_Poly_Bush_002.obj-df3054358da13dc5297ac5fd8a423020.mesh" ]
+
+source_file="res://assets/Low_Poly_Foliage_Pack_001/OBJ Files/Low_Poly_Bush_002.obj"
+dest_files=[ "res://.import/Low_Poly_Bush_002.obj-df3054358da13dc5297ac5fd8a423020.mesh", "res://.import/Low_Poly_Bush_002.obj-df3054358da13dc5297ac5fd8a423020.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

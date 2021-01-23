@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/magic_potion.obj-58ddb598a94f0b99c37b983f4534defc.mesh"
+
+[deps]
+
+files=[ "res://.import/magic_potion.obj-58ddb598a94f0b99c37b983f4534defc.mesh" ]
+
+source_file="res://assets/Stylised Box/Assets/Models/magic_potion.obj"
+dest_files=[ "res://.import/magic_potion.obj-58ddb598a94f0b99c37b983f4534defc.mesh", "res://.import/magic_potion.obj-58ddb598a94f0b99c37b983f4534defc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

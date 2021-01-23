@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://assets/Easy Animated Enemy Pack - Jan 2019/FBX/Rat.fbx" type="PackedScene" id=1]
+
+[node name="body" instance=ExtResource( 1 )]
+transform = Transform( -1.62921e-07, 0, 1, 0, 1, 0, -1, 0, -1.62921e-07, 0, 0, 0 )
+
+[node name="Armature" parent="." index="0"]
+transform = Transform( 39.5492, 0, 0, 0, -4.71463e-06, 39.5492, 0, -39.5492, -4.71463e-06, 0, 0, 0 )
+
+[node name="RayCast" type="RayCast" parent="." index="2"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.10113, 0 )
+enabled = true
+cast_to = Vector3( 0, 0, 2.6 )

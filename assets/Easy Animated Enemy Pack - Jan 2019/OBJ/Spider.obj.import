@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Spider.obj-616a84802b3e34032e8d4dda0c9966df.mesh"
+
+[deps]
+
+files=[ "res://.import/Spider.obj-616a84802b3e34032e8d4dda0c9966df.mesh" ]
+
+source_file="res://assets/Easy Animated Enemy Pack - Jan 2019/OBJ/Spider.obj"
+dest_files=[ "res://.import/Spider.obj-616a84802b3e34032e8d4dda0c9966df.mesh", "res://.import/Spider.obj-616a84802b3e34032e8d4dda0c9966df.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
